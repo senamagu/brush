@@ -7,7 +7,7 @@
 
 ・[いいかんじの線画ペン](./Procreate/CleanLineArt_Pen.brush)
 
-・[Graペン](./Gra_pen.brush)
+・[Graペン](./Procreate/Gra_pen.brush)
 
 ・[グラデトーンブラシ](./Procreate/GradientTone.brush)
 
