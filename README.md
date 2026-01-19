@@ -10,7 +10,7 @@
 URLの共有ご自由にどうぞ
 
 ## ▼[Procreate](./Procreate)
-↑各ブラシの説明あります
+↑各ブラシの説明あり〼
 
 ### ▶︎ブラシ種類
 ・[筆圧色変わり水彩](./Procreate/pcs_watercolor)
