@@ -3,10 +3,10 @@
 ︎
 ## ▼[Procreate](./Procreate)
 ### ▶︎ブラシ種類
-・[筆圧色変わり水彩](./Procreate/筆圧色変わり水彩)
+・[筆圧色変わり水彩](./pcs_watercolor)
 
-・[いいかんじの線画ペン](./Procreate/いいかんじの線画ペン)
+・[いいかんじの線画ペン](./CleanLineArt_Pen.brush)
 
-・[グラデトーンブラシ](./Procreate/グラデトーンブラシ)
+・[グラデトーンブラシ](./GradientTone.brush)
 
-・[メモえんぴつっぽいな](./Procreate/メモえんぴつっぽいな)
+・[メモえんぴつっぽいな](./iOS_Pencil.brush)
