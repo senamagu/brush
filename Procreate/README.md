@@ -22,7 +22,7 @@
 
 <img width="500" height="500" alt="IMG_2595" src="https://github.com/user-attachments/assets/d37b65b7-6a4f-49e7-bd30-1a97ac9e96a4" /><img width="500" height="500" alt="IMG_2588" src="https://github.com/user-attachments/assets/709a83df-5ced-4e31-a104-a4e5edd97320" />
 
-### ▶︎[メモえんぴつっぽいな](./メモえんぴつっぽいな.brush)
+### ▶︎[メモえんぴつっぽいな](./iOS_Pencil.brush)
 iOSのメモ帳鉛筆を再現したもの。
 
 <img width="500" height="500" alt="IMG_2594" src="https://github.com/user-attachments/assets/91cfcd34-8ee0-4226-bbdf-cf9998d7be2a" /><img width="1000" height="1000" alt="IMG_2596" src="https://github.com/user-attachments/assets/825f2b59-028e-467c-a47f-83ba03f40a97" />
