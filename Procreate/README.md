@@ -1,6 +1,6 @@
 # Procreateのブラシ
 
-### ▶︎[筆圧色変わり水彩](./筆圧色変わり水彩)
+### ▶︎[筆圧色変わり水彩](./pcs_watercolor)
 筆圧で色が変わるペン
 
 筆圧対応。太さ変わらないverもあり〼
@@ -8,14 +8,14 @@
 <img width="500" height="500" alt="IMG_2589" src="https://github.com/user-attachments/assets/919f3a5c-d0f0-40ca-a7dd-8862e821da1f" /><img width="500" height="500" alt="IMG_2587" src="https://github.com/user-attachments/assets/1be271d4-a457-4e83-b37a-bb1fce9a5304" />
 
 
-### ▶︎[いい感じの線画ペン](./いいかんじの線画ペン.brush)
+### ▶︎[いい感じの線画ペン](./GradientTone_Brush.brush)
 いい感じの線画が描ける。
 
 ぬるぬるとした描き心地
 
 <img width="500" height="500" alt="IMG_2592" src="https://github.com/user-attachments/assets/c8e6a003-8158-4e06-a7a2-ef790a9ce2c0" /><img width="500" height="500" alt="IMG_2591" src="https://github.com/user-attachments/assets/8ae836ba-65ce-4d39-847f-a973f3fe5e8d" />
 
-### ▶︎[グラデトーンブラシ](./グラデトーンブラシ.brush)
+### ▶︎[グラデトーンブラシ](./iOS_Pencil.brush)
 ロゼットの改変ブラシ
 
 筆圧によってグラデーションの濃さが変わる。
