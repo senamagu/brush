@@ -1,6 +1,7 @@
 # ブラシ保管庫
 
-## [Procreate](./Procreate)
+
+## ▼[Procreate](./Procreate)
 #### ▶︎ブラシ種類
 ・筆圧色変わり水彩
 ・いい感じの線画ペン
