@@ -15,6 +15,14 @@
 
 <img width="500" height="500" alt="IMG_2592" src="https://github.com/user-attachments/assets/c8e6a003-8158-4e06-a7a2-ef790a9ce2c0" /><img width="500" height="500" alt="IMG_2591" src="https://github.com/user-attachments/assets/8ae836ba-65ce-4d39-847f-a973f3fe5e8d" />
 
+### [Graペン](./Gra_pen.brush)
+筆感のある2値化ペン
+
+絵より文字向けかも
+<img width="500" height="500" alt="IMG_2584" src="https://github.com/user-attachments/assets/fec30bf6-94a5-41f9-9111-c1cb2f39e911" /><img width="500" height="500" alt="IMG_2597" src="https://github.com/user-attachments/assets/1347378a-bc60-4b47-8b73-d7fd82338c0b" />
+
+
+
 ### ▶︎[グラデトーンブラシ](./GradientTone.brush)
 ロゼットの改変ブラシ
 
