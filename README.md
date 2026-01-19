@@ -1,5 +1,4 @@
 # ブラシ保管庫
----
 
 ## 【注意事項】
 配布‪✕‬
@@ -9,8 +8,6 @@
 改変の配布〇
 
 URLの共有ご自由にどうぞ
-︎
----
 
 ## ▼[Procreate](./Procreate)
 ↑各ブラシの説明あります
@@ -25,6 +22,4 @@ URLの共有ご自由にどうぞ
 ・[グラデトーンブラシ](./Procreate/GradientTone.brush)
 
 ・[メモえんぴつっぽいな](./Procreate/iOS_Pencil.brush)
-
----
 
