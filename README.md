@@ -7,6 +7,8 @@
 
 ・[いいかんじの線画ペン](./Procreate/CleanLineArt_Pen.brush)
 
+・[Graペン](./Gra_pen.brush)
+
 ・[グラデトーンブラシ](./Procreate/GradientTone.brush)
 
 ・[メモえんぴつっぽいな](./Procreate/iOS_Pencil.brush)
