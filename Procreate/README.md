@@ -3,13 +3,19 @@
 ### ▶︎筆圧色変わり水彩
 筆圧で色が変わるペン
 筆圧対応。太さ変わらないverもあり〼
-<img width="1000" height="500" alt="IMG_2590" src="https://github.com/user-attachments/assets/8c9a9fa8-b007-4d6c-840b-766e5648b9ea" />
+<img width="500" height="500" alt="IMG_2589" src="https://github.com/user-attachments/assets/919f3a5c-d0f0-40ca-a7dd-8862e821da1f" /><img width="500" height="500" alt="IMG_2589" src="https://github.com/user-attachments/assets/bdeb3097-27be-4e17-801c-db52f6bdab33" />
 
 ### ▶︎いい感じの線画ペン
-いい感じの線画が描ける
+いい感じの線画が描ける。
+ぬるぬるとした描き心地
 <img width="500" height="500" alt="IMG_2592" src="https://github.com/user-attachments/assets/c8e6a003-8158-4e06-a7a2-ef790a9ce2c0" /><img width="500" height="500" alt="IMG_2591" src="https://github.com/user-attachments/assets/8ae836ba-65ce-4d39-847f-a973f3fe5e8d" />
 
 ### ▶︎グラデトーンブラシ
-
+ロゼットの改変ブラシ
+筆圧によってグラデーションの濃さが変わる。
+<img width="500" height="500" alt="IMG_2595" src="https://github.com/user-attachments/assets/d37b65b7-6a4f-49e7-bd30-1a97ac9e96a4" /><img width="500" height="500" alt="IMG_2588" src="https://github.com/user-attachments/assets/709a83df-5ced-4e31-a104-a4e5edd97320" />
 
 ### ▶︎メモえんぴつっぽいな
+iOSのメモ帳鉛筆を再現したもの
+<img width="500" height="500" alt="IMG_2594" src="https://github.com/user-attachments/assets/91cfcd34-8ee0-4226-bbdf-cf9998d7be2a" /><img width="500" height="500" alt="IMG_2593" src="https://github.com/user-attachments/assets/703d01c0-913e-495d-8c76-75e566ec05fa" />
+
