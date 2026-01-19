@@ -8,7 +8,7 @@
 <img width="500" height="500" alt="IMG_2589" src="https://github.com/user-attachments/assets/919f3a5c-d0f0-40ca-a7dd-8862e821da1f" /><img width="500" height="500" alt="IMG_2587" src="https://github.com/user-attachments/assets/1be271d4-a457-4e83-b37a-bb1fce9a5304" />
 
 
-### ▶︎[いい感じの線画ペン](./いい感じの線画ペン)
+### ▶︎[いいかんじの線画ペン](./いいかんじの線画ペン)
 いい感じの線画が描ける。
 
 ぬるぬるとした描き心地
