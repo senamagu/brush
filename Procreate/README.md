@@ -3,7 +3,8 @@
 ### ▶︎筆圧色変わり水彩
 筆圧で色が変わるペン
 筆圧対応。太さ変わらないverもあり〼
-<img width="500" height="500" alt="IMG_2589" src="https://github.com/user-attachments/assets/919f3a5c-d0f0-40ca-a7dd-8862e821da1f" /><img width="500" height="500" alt="IMG_2589" src="https://github.com/user-attachments/assets/bdeb3097-27be-4e17-801c-db52f6bdab33" />
+<img width="500" height="500" alt="IMG_2589" src="https://github.com/user-attachments/assets/919f3a5c-d0f0-40ca-a7dd-8862e821da1f" /><img width="500" height="500" alt="IMG_2587" src="https://github.com/user-attachments/assets/1be271d4-a457-4e83-b37a-bb1fce9a5304" />
+
 
 ### ▶︎いい感じの線画ペン
 いい感じの線画が描ける。
