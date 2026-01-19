@@ -25,5 +25,5 @@
 ### ▶︎メモえんぴつっぽいな
 iOSのメモ帳鉛筆を再現したもの。
 
-<img width="500" height="500" alt="IMG_2594" src="https://github.com/user-attachments/assets/91cfcd34-8ee0-4226-bbdf-cf9998d7be2a" /><img width="500" height="500" alt="IMG_2593" src="https://github.com/user-attachments/assets/703d01c0-913e-495d-8c76-75e566ec05fa" />
+<img width="500" height="500" alt="IMG_2594" src="https://github.com/user-attachments/assets/91cfcd34-8ee0-4226-bbdf-cf9998d7be2a" /><img width="1000" height="1000" alt="IMG_2596" src="https://github.com/user-attachments/assets/825f2b59-028e-467c-a47f-83ba03f40a97" />
 
